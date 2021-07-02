@@ -2,7 +2,7 @@
 body>div {
   width: 250px;
   height: 250px;
-  --testVar: paint(test);
+  --testVar: paint(box);
   --testProp: red;
   background-image: var(--testVar);
   color: var(--testVar);
