@@ -1,0 +1,9 @@
+
+body>div {
+  width: 250px;
+  height: 250px;
+  --testVar: paint(test);
+  --testProp: red;
+  background-image: var(--testVar);
+  color: var(--testVar);
+}
