@@ -7,3 +7,9 @@ body>div {
   background-image: var(--testVar);
   color: var(--testVar);
 }
+
+#Capa_1 {
+  width: 250px;
+  height: 250px;
+  fill: var(--testVar);
+}
